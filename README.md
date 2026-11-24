@@ -14,8 +14,9 @@ Mneme 的初始 Web 聊天界面基于 [DeepSeek ChatDemo](https://github.com/de
 
 Mneme 是一个独立的社区开发项目，与 DeepSeek 官方无隶属关系。
 
-### Credits and Attribution
 ---------------------------------------------------------------------------------------------------------------
+
+### Credits and Attribution
 
 Mneme's initial web chat interface is derived from [DeepSeek ChatDemo](https://github.com/deepseek-ai/chat-demo).
 
